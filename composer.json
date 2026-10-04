@@ -26,9 +26,9 @@
             "title": "Share Link",
             "category": "",
             "icon": {
-                "name": "",
-                "color": "",
-                "backgroundColor": ""
+                "name": "fas fa-solid fa-square-share-nodes",
+                "color": "#222222",
+                "backgroundColor": "#fab005"
             }
         },
         "flarum-cli": {
